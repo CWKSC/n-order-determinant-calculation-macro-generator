@@ -1,5 +1,10 @@
 # N-order determinant calculation macro generator
- N-order determinant calculation macro generator
+
+ N-order determinant calculation macro generator 
+ 
+ N 阶行列式计算宏生成器
+ 
+ N 階行列式計算巨集生成器
 
 1. [【Just For Fun】n 階行列式計算 宏 生成器，四阶行列式的最优展开 - 知乎](https://zhuanlan.zhihu.com/p/77057988)
 2. [【Just For Fun】n 階行列式計算 宏 生成器（重构） - 知乎](https://zhuanlan.zhihu.com/p/77388741)
